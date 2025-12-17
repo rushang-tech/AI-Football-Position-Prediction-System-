@@ -5,8 +5,7 @@ This project is a Supervised Machine Learning system designed to classify footba
 
 ## Dataset
 The project utilizes the **FBREF** dataset containing 34 columns of performance statistics.
-- **Source:** FBREF / Kaggle
-- https://huggingface.co/datasets/3zden/fbref_football_player_performance_2024-2025/commit/bfbd70f1bf9586d5d809d1b75cc6c3d81df8a58e
+- **Source:** FBREF / Huggingface https://huggingface.co/datasets/3zden/fbref_football_player_performance_2024-2025/commit/bfbd70f1bf9586d5d809d1b75cc6c3d81df8a58e
 - **Preprocessing:** Players with < 450 minutes played were filtered out to reduce noise.
 
 ## Methodologies
